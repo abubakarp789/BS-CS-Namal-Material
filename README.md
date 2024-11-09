@@ -1,2 +1,2 @@
 # BS-CS-Namal-Material
-This repository is for all labs and project that I done in my BS CS degree at Namal University Mianwa;i
+This repository contain all labs and projects that I have done in my BS CS degree at Namal University Mianwali
