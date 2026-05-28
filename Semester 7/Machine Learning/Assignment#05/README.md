@@ -63,55 +63,24 @@ Our custom training loop sweeps parameters to analyze convergence rates, initial
 
 ### 1. Training Convergence & Hyperparameters
 
-````carousel
-```markdown
-### Slide 1: Training Loss & Learning Rate Sweeps
-Tracks model optimization under different learning rates and initialization methods.
-```
-![Training Loss](./plots/training_loss.png)
-<!-- slide -->
-```markdown
-### Slide 2: Learning Rate Comparison
-Evaluates how different learning rates affect convergence speed and stability.
-```
-![Learning Rate Comparison](./plots/learning_rate_comparison.png)
-<!-- slide -->
-```markdown
-### Slide 3: Weight Initialization Effects
-Compares convergence rates when using Random vs. Xavier/Glorot weight initializations.
-```
-![Initialization Comparison](./plots/initialization_comparison.png)
-````
+| Training Loss & Learning Rate Sweeps | Learning Rate Comparison | Weight Initialization Effects |
+| :---: | :---: | :---: |
+| ![Training Loss](./plots/training_loss.png) | ![Learning Rate Comparison](./plots/learning_rate_comparison.png) | ![Initialization Comparison](./plots/initialization_comparison.png) |
+| *Tracks model optimization under different learning rates and initialization methods.* | *Evaluates how different learning rates affect convergence speed and stability.* | *Compares convergence rates when using Random vs. Xavier/Glorot weight initializations.* |
 
 *   *Key Finding*: **Xavier Initialization** prevents early saturation of the sigmoid gates, leading to much faster convergence than random normal distributions.
 
 ### 2. Gating Performance & State Tracking
 
-````carousel
-```markdown
-### Slide 1: Gate Behavior Mappings
-Visualizes how the Forget, Input, and Output gates activate over time.
-```
-![Gate Behavior](./plots/gate_behavior.png)
-<!-- slide -->
-```markdown
-### Slide 2: Cell State Evolution
-Tracks the flow of values inside the long-term cell state memory channel.
-```
-![Cell State Evolution](./plots/cell_state_evolution.png)
-<!-- slide -->
-```markdown
-### Slide 3: Long-Term Dependencies
-Demonstrates the network's ability to recall early sequence inputs across distant time steps.
-```
-![Long-Term Dependency](./plots/long_term_dependency.png)
-<!-- slide -->
-```markdown
-### Slide 4: Hidden Size Capacity
-Compares training efficiency and representation capacity across different hidden layer sizes.
-```
-![Hidden Size Comparison](./plots/hidden_size_comparison.png)
-````
+| Gate Behavior Mappings | Cell State Evolution |
+| :---: | :---: |
+| ![Gate Behavior](./plots/gate_behavior.png) | ![Cell State Evolution](./plots/cell_state_evolution.png) |
+| *Visualizes how the Forget, Input, and Output gates activate over time.* | *Tracks the flow of values inside the long-term cell state memory channel.* |
+
+| Long-Term Dependencies | Hidden Size Capacity |
+| :---: | :---: |
+| ![Long-Term Dependency](./plots/long_term_dependency.png) | ![Hidden Size Comparison](./plots/hidden_size_comparison.png) |
+| *Demonstrates the network's ability to recall early sequence inputs across distant time steps.* | *Compares training efficiency and representation capacity across different hidden layer sizes.* |
 
 ---
 
