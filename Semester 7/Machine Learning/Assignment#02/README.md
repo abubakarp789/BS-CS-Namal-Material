@@ -9,15 +9,15 @@ The project uses synthetic salary-experience datasets to model professional inco
 ## 📂 Directory Contents
 
 *   **💻 Custom Regression Engines**:
-    *   [loss_function_analysis.py](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Machine%20Learning/Assignment%2302/loss_function_analysis.py) — Core research script computing complete 3D loss grids and gradient contours for MSE & MAE.
-    *   [analysis_clean.py](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Machine%20Learning/Assignment%2302/analysis_clean.py) — Runs regression algorithms on the ideal outlier-free dataset.
-    *   [analysis_outliers.py](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Machine%20Learning/Assignment%2302/analysis_outliers.py) — Introduces high-leverage outliers and compares model shifts.
+    *   [loss_function_analysis.py](./loss_function_analysis.py) — Core research script computing complete 3D loss grids and gradient contours for MSE & MAE.
+    *   [analysis_clean.py](./analysis_clean.py) — Runs regression algorithms on the ideal outlier-free dataset.
+    *   [analysis_outliers.py](./analysis_outliers.py) — Introduces high-leverage outliers and compares model shifts.
 *   **📊 Salary Datasets (CSV)**:
     *   `salary_experience_clean.csv` — Baseline dataset showing strong linear correlations.
     *   `salary_experience_with_outliers.csv` — Contains engineered leverage points (outliers).
 *   **📄 Written Reports**:
-    *   [Abubakar(41)_Assignment_02_Report.pdf](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Machine%20Learning/Assignment%2302/Abubakar(41)_Assignment_02_Report.pdf) — Comprehensive scientific report explaining loss derivatives, mathematical convergence, and statistical insights.
-    *   [Assignment 02.docx](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Machine%20Learning/Assignment%2302/Assignment%2002.docx) — Source assignment outline and writeups.
+    *   [Abubakar(41)_Assignment_02_Report.pdf](./Abubakar%2841)_Assignment_02_Report.pdf) — Comprehensive scientific report explaining loss derivatives, mathematical convergence, and statistical insights.
+    *   [Assignment 02.docx](./Assignment%2002.docx) — Source assignment outline and writeups.
 *   **📸 Output Visualization Directory**:
     *   Contains comparative line plots, scatter points, 3D loss surface topography, and convergence traces.
 

@@ -11,10 +11,10 @@ These documents serve as a critical academic resource, distilling complex multi-
 This directory contains the following primary study files:
 
 *   **🗺️ Course Topics & Skills Mapping**:
-    *   [COURSE_TOPICS_MAPPING.md](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/Project%20Details/COURSE_TOPICS_MAPPING.md) — Comprehensive outline connecting course lectures, lab projects, standard textbook sections, and practical learning milestones.
+    *   [COURSE_TOPICS_MAPPING.md](./COURSE_TOPICS_MAPPING.md) — Comprehensive outline connecting course lectures, lab projects, standard textbook sections, and practical learning milestones.
 *   **📝 Exam & Quiz High-Yield Review Sheets**:
-    *   [PDC_QUIZ_STUDY_GUIDE.md](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/Project%20Details/PDC_QUIZ_STUDY_GUIDE.md) — Targeted review sheet covering threads, processes, Flynn's Taxonomy, memory architectures, and Amdahl's Law calculations.
-    *   [PDC_QUIZ_COMPREHENSIVE_STUDY_GUIDE.md](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/Project%20Details/PDC_QUIZ_COMPREHENSIVE_STUDY_GUIDE.md) — Deep-dive study guide covering advanced synchronization primitives, memory barriers, OpenMP directives, MPI communication calls, cache coherence (MESI protocol), and distributed load-balancing algorithms.
+    *   [PDC_QUIZ_STUDY_GUIDE.md](./PDC_QUIZ_STUDY_GUIDE.md) — Targeted review sheet covering threads, processes, Flynn's Taxonomy, memory architectures, and Amdahl's Law calculations.
+    *   [PDC_QUIZ_COMPREHENSIVE_STUDY_GUIDE.md](./PDC_QUIZ_COMPREHENSIVE_STUDY_GUIDE.md) — Deep-dive study guide covering advanced synchronization primitives, memory barriers, OpenMP directives, MPI communication calls, cache coherence (MESI protocol), and distributed load-balancing algorithms.
 
 ---
 

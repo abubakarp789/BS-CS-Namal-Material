@@ -11,20 +11,20 @@ The goal of this course is to teach computer science students how to transition 
 This directory contains the following academic resources:
 
 *   **📚 Core Text & Outlines**:
-    *   [Entrepreneurship Book.pdf](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Entrepreneurship/Entrepreneurship%20Book.pdf) — Standard reference text.
-    *   [187-questions-6953b7ae598a3ProjectguidelinesCS363.pdf](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Entrepreneurship/187-questions-6953b7ae598a3ProjectguidelinesCS363.pdf) — Guidelines for project selection, pitch design, and SRS structure.
+    *   [Entrepreneurship Book.pdf](./Entrepreneurship%20Book.pdf) — Standard reference text.
+    *   [187-questions-6953b7ae598a3ProjectguidelinesCS363.pdf](./187-questions-6953b7ae598a3ProjectguidelinesCS363.pdf) — Guidelines for project selection, pitch design, and SRS structure.
 *   **📑 Lecture Slides (Eship CS Lecture 1-12)**:
     *   Covers essential start-up frameworks including customer discovery, business model canvas, competitive advantage, financial projection modeling, marketing strategy, and investment pitching.
 *   **🖊️ Assignments & Quizzes**:
-    *   [A1_41_Abubakar_CS363.pdf](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Entrepreneurship/A1_41_Abubakar_CS363.pdf) — Assignment 1 focusing on initial market analysis.
-    *   [Quiz 1.pdf](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Entrepreneurship/Quiz%201.pdf) — Conceptual check sheet.
-    *   [Quick Guide for Final Exam.pdf](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Entrepreneurship/Quick%20Guide%20for%20Final%20Exam.pdf) — High-yield exam notes.
+    *   [A1_41_Abubakar_CS363.pdf](./A1_41_Abubakar_CS363.pdf) — Assignment 1 focusing on initial market analysis.
+    *   [Quiz 1.pdf](./Quiz%201.pdf) — Conceptual check sheet.
+    *   [Quick Guide for Final Exam.pdf](./Quick%20Guide%20for%20Final%20Exam.pdf) — High-yield exam notes.
 *   **🔬 Research & Startup Pitch Documents**:
-    *   [Project-Pitch.pdf](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Entrepreneurship/Project-Pitch.pdf) — Pitch presentation deck detailing the core business idea.
-    *   [Generative_Code_Assistant_and_Context-Based_Code_Optimizer.pdf](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Entrepreneurship/Generative_Code_Assistant_and_Context-Based_Code_Optimizer.pdf) — In-depth research detailing the foundation of the startup project.
+    *   [Project-Pitch.pdf](./Project-Pitch.pdf) — Pitch presentation deck detailing the core business idea.
+    *   [Generative_Code_Assistant_and_Context-Based_Code_Optimizer.pdf](./Generative_Code_Assistant_and_Context-Based_Code_Optimizer.pdf) — In-depth research detailing the foundation of the startup project.
     *   Research Papers 1 & 2 — Peer-reviewed articles on startup dynamics.
 *   **💡 Core Course Project**:
-    *   **[FYP Business Plan — SudhaarAI](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Entrepreneurship/FYP%20Business%20Plan/)** — A dedicated project folder containing the business layout and complete Software Requirements Specification (SRS) for **SudhaarAI**, an AI-powered code assistant.
+    *   **[FYP Business Plan — SudhaarAI](./FYP%20Business%20Plan/)** — A dedicated project folder containing the business layout and complete Software Requirements Specification (SRS) for **SudhaarAI**, an AI-powered code assistant.
 
 ---
 
@@ -41,7 +41,7 @@ The major deliverable of this course was a complete commercialization plan for *
 3.  **Venture Pitch**: Structuring the value proposition for seed rounds.
 
 For detailed project documents, source code descriptions, and slide references, please navigate to the dedicated project directory:
-➡️ **[SudhaarAI Project README](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Entrepreneurship/FYP%20Business%20Plan/README.md)**
+➡️ **[SudhaarAI Project README](./FYP%20Business%20Plan/README.md)**
 
 ---
 

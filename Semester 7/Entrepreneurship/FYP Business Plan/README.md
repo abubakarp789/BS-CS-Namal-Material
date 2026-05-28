@@ -9,14 +9,14 @@ Welcome to the **SudhaarAI** project repository! This folder archives the primar
 This directory contains the following core business and system engineering documents:
 
 *   **📄 Business Venture Plan**:
-    *   [Business Plan Generation for SudhaarAI.pdf](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Entrepreneurship/FYP%20Business%20Plan/Business%20Plan%20Generation%20for%20Sudhaar%20AI.pdf) — Complete 60+ page venture formulation business plan detailing market sizing, competitor metrics, SaaS subscription tiers, operational cash flows, and marketing funnels.
-    *   [Business Plan Generation for SudhaarAI.docx](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Entrepreneurship/FYP%20Business%20Plan/Business%20Plan%20Generation%20for%20Sudhaar%20AI.docx) — Editable source document of the business plan.
+    *   [Business Plan Generation for SudhaarAI.pdf](./Business%20Plan%20Generation%20for%20SudhaarAI.pdf) — Complete 60+ page venture formulation business plan detailing market sizing, competitor metrics, SaaS subscription tiers, operational cash flows, and marketing funnels.
+    *   [Business Plan Generation for SudhaarAI.docx](./Business%20Plan%20Generation%20for%20SudhaarAI.docx) — Editable source document of the business plan.
 *   **📊 VC & Academic Pitch Presentation**:
-    *   [Business Plan Generation for SudhaarAI Presentation.pdf](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Entrepreneurship/FYP%20Business%20Plan/Business%20Plan%20Generation%20for%20SudhaarAI%20Presentation.pdf) — Slide deck used to pitch the venture to academic panels and prospective seed investors.
+    *   [Business Plan Generation for SudhaarAI Presentation.pdf](./Business%20Plan%20Generation%20for%20SudhaarAI%20Presentation.pdf) — Slide deck used to pitch the venture to academic panels and prospective seed investors.
 *   **⚙️ System Architecture & SRS**:
-    *   [SRS of SudhaarAI (40 & 41).pdf](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Entrepreneurship/FYP%20Business%20Plan/SRS%20of%20SudhaarAI%20(40%20&%2041).pdf) — Formal Software Requirements Specification conforming to IEEE standards, authored by Abubakar (Roll 41) & teammate (Roll 40). It details system behaviors, use cases, hardware requirements, security constraints, and UI wireframes.
+    *   [SRS of SudhaarAI (40 & 41).pdf](./SRS%20of%20SudhaarAI%20%2840%20%26%2041).pdf) — Formal Software Requirements Specification conforming to IEEE standards, authored by Abubakar (Roll 41) & teammate (Roll 40). It details system behaviors, use cases, hardware requirements, security constraints, and UI wireframes.
 *   **📋 Standards & Guidance**:
-    *   [187-questions-6953b7ae598a3ProjectguidelinesCS363.pdf](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Entrepreneurship/FYP%20Business%20Plan/187-questions-6953b7ae598a3ProjectguidelinesCS363.pdf) — Project specification outline.
+    *   [187-questions-6953b7ae598a3ProjectguidelinesCS363.pdf](./187-questions-6953b7ae598a3ProjectguidelinesCS363.pdf) — Project specification outline.
 
 ---
 

@@ -9,15 +9,15 @@ PCA is a fundamental unsupervised dimensionality reduction method that projects 
 ## 📂 Directory Contents
 
 *   **💻 Modular Python Scripts**:
-    *   [pca_core.py](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Machine%20Learning/Assignment%2304/pca_core.py) — Core algorithmic class implementing mean normalization, covariance computation, and singular value/eigenvalue decompositions.
-    *   [pca_complete_implementation.py](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Machine%20Learning/Assignment%2304/pca_complete_implementation.py) — Integrated runner script loading the CSV dataset, executing custom PCA projections, and saving validation stats.
-    *   [visualization.py](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Machine%20Learning/Assignment%2304/visualization.py) — Matplotlib plotting suite for generating 3D, 2D, and 1D projections.
-    *   [main.py](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Machine%20Learning/Assignment%2304/main.py) — Global entry execution point.
+    *   [pca_core.py](./pca_core.py) — Core algorithmic class implementing mean normalization, covariance computation, and singular value/eigenvalue decompositions.
+    *   [pca_complete_implementation.py](./pca_complete_implementation.py) — Integrated runner script loading the CSV dataset, executing custom PCA projections, and saving validation stats.
+    *   [visualization.py](./visualization.py) — Matplotlib plotting suite for generating 3D, 2D, and 1D projections.
+    *   [main.py](./main.py) — Global entry execution point.
 *   **📊 Input Dataset (CSV)**:
     *   `pca_3d_dataset.csv` — Synthetic 3D dataset containing highly correlated coordinates.
 *   **📄 Written Reports**:
-    *   [Abubakar(41)_Assignment#03(Part2)_Report.pdf](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Machine%20Learning/Assignment%2304/Abubakar(41)_Assignment%2303(Part2)_Report.pdf) — Formal scientific report evaluating PCA math, scree variance plots, and reconstruction errors.
-    *   [Assignment 04.docx](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Machine%20Learning/Assignment%2304/Assignment%2004.docx) — Source assignment prompt sheet.
+    *   [Abubakar(41)_Assignment#03(Part2)_Report.pdf](./Abubakar%2841)_Assignment%2303(Part2)_Report.pdf) — Formal scientific report evaluating PCA math, scree variance plots, and reconstruction errors.
+    *   [Assignment 04.docx](./Assignment%2004.docx) — Source assignment prompt sheet.
 
 ---
 

@@ -9,14 +9,14 @@ The core of this assignment is a series of three highly intensive computational 
 ## 📂 Directory Contents
 
 *   **📄 Complete Assignment Deliverables**:
-    *   [Abubakar_41_CS440_Assignment2.pdf](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/Assignment%2302/Abubakar_41_CS440_Assignment2.pdf) — Abubakar's final submitted PDF report detailing algorithm pseudocodes, structural dependency charts, and detailed optimization analyses.
-    *   [Advanced Parallel Algorithmic Paradigms.docx](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/Assignment%2302/Advanced%20Parallel%20Algorithmic%20Paradigms.docx) — Editable source document of the parallel paradigms report.
-    *   [Assignment 2.docx](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/Assignment%2302/Assignment%202.docx) — Official question specification sheet.
+    *   [Abubakar_41_CS440_Assignment2.pdf](./Abubakar_41_CS440_Assignment2.pdf) — Abubakar's final submitted PDF report detailing algorithm pseudocodes, structural dependency charts, and detailed optimization analyses.
+    *   [Advanced Parallel Algorithmic Paradigms.docx](./Advanced%20Parallel%20Algorithmic%20Paradigms.docx) — Editable source document of the parallel paradigms report.
+    *   [Assignment 2.docx](./Assignment%202.docx) — Official question specification sheet.
 *   **💻 Python Implementations (`Python Implementation/`)**:
-    *   [task1_greedy.py](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/Assignment%2302/Python%20Implementation/task1_greedy.py) — Greedy Bandwidth Allocation solver utilizing concurrent threads.
-    *   [task2_dna.py](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/Assignment%2302/Python%20Implementation/task2_dna.py) — DNA Sequence Alignment using zero-copy shared memory wavefront computations.
-    *   [task3_timetabling.py](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/Assignment%2302/Python%20Implementation/task3_timetabling.py) — Hard Constraint Satisfaction Problem (CSP) timetabling solver with a dynamic work queue.
-    *   **[execution_results_optimized.md](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/Assignment%2302/Python%20Implementation/execution_results_optimized.md)** — Comprehensive execution benchmark report detailing CPU timing and speedup gains.
+    *   [task1_greedy.py](./Python%20Implementation/task1_greedy.py) — Greedy Bandwidth Allocation solver utilizing concurrent threads.
+    *   [task2_dna.py](./Python%20Implementation/task2_dna.py) — DNA Sequence Alignment using zero-copy shared memory wavefront computations.
+    *   [task3_timetabling.py](./Python%20Implementation/task3_timetabling.py) — Hard Constraint Satisfaction Problem (CSP) timetabling solver with a dynamic work queue.
+    *   **[execution_results_optimized.md](./Python%20Implementation/execution_results_optimized.md)** — Comprehensive execution benchmark report detailing CPU timing and speedup gains.
 
 ---
 

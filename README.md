@@ -2,7 +2,7 @@
 
 [![Namal University](https://img.shields.io/badge/University-Namal%20University-blue?style=for-the-badge&logo=education)](https://www.namal.edu.pk/)
 [![Degree](https://img.shields.io/badge/Degree-BS%20Computer%20Science-darkgreen?style=for-the-badge)](https://www.namal.edu.pk/)
-[![Semester](https://img.shields.io/badge/Current%20Semester-Semester%207-orange?style=for-the-badge)](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/)
+[![Semester](https://img.shields.io/badge/Current%20Semester-Semester%207-orange?style=for-the-badge)](./Semester%207/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 Welcome to my academic repository! This repository serves as a comprehensive, structured archive of all labs, programming assignments, projects, exam study guides, and research materials that I have completed during my **Bachelor of Science in Computer Science (BS CS)** degree at **Namal University Mianwali**. 
@@ -37,22 +37,22 @@ graph TD
 
 ## 🗂️ Semester Directory Directory
 
-### 📅 [Semester 7](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/README.md)
+### 📅 [Semester 7](./Semester%207/README.md)
 *Focus: Security, AI/ML, Parallel Architectures, Iqbal's Philosophy, and Business Planning.*
 
 | Course | Code / Type | Key Deliverables & Projects | Documentation |
 | :--- | :---: | :--- | :---: |
-| **🤖 Machine Learning** | CS-341 | KNN, K-Means, DBSCAN, Linear Regression, LDA, PCA, and LSTM *from scratch* (no sklearn/keras!). | [Explore](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Machine%20Learning/) |
-| **💻 Parallel & Distributed Computing** | CS-440 | **[Multi-User Remote Access System](https://github.com/abubakarp789/Multi-User-Remote-Access-System)**, Docker Compose Scaling, Load Balancing (Nginx), and Algorithm Optimizations. | [Explore](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/) |
-| **🛡️ Cyber Security** | CS-452 | **[Certea Signature Validator](https://github.com/abubakarp789/Certea)**, Burp Suite Labs, SQL Injections, XSS & XSRF Attacks, and Network Spoofing. | [Explore](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Cyber%20Security/) |
-| **💼 Entrepreneurship** | CS-363 | **SudhaarAI**: A complete Software Requirements Specification (SRS) and comprehensive business venture plan. | [Explore](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Entrepreneurship/) |
-| **📖 Iqbaliyat** | SS-102 | Poetic and philosophical exploration of Allama Iqbal's "Tariq ki Dua", containing research reports and certificate work. | [Explore](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Iqbaliyat/) |
+| **🤖 Machine Learning** | CS-341 | KNN, K-Means, DBSCAN, Linear Regression, LDA, PCA, and LSTM *from scratch* (no sklearn/keras!). | [Explore](./Semester%207/Machine%20Learning/) |
+| **💻 Parallel & Distributed Computing** | CS-440 | **[Multi-User Remote Access System](https://github.com/abubakarp789/Multi-User-Remote-Access-System)**, Docker Compose Scaling, Load Balancing (Nginx), and Algorithm Optimizations. | [Explore](./Semester%207/Parallel%20and%20Distributed%20Computing/) |
+| **🛡️ Cyber Security** | CS-452 | **[Certea Signature Validator](https://github.com/abubakarp789/Certea)**, Burp Suite Labs, SQL Injections, XSS & XSRF Attacks, and Network Spoofing. | [Explore](./Semester%207/Cyber%20Security/) |
+| **💼 Entrepreneurship** | CS-363 | **SudhaarAI**: A complete Software Requirements Specification (SRS) and comprehensive business venture plan. | [Explore](./Semester%207/Entrepreneurship/) |
+| **📖 Iqbaliyat** | SS-102 | Poetic and philosophical exploration of Allama Iqbal's "Tariq ki Dua", containing research reports and certificate work. | [Explore](./Semester%207/Iqbaliyat/) |
 
 ---
 
 ## 🚀 Key Highlights & Major Projects
 
-### 🌟 [SudhaarAI — Generative AI Code Assistant](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Entrepreneurship/FYP%20Business%20Plan/)
+### 🌟 [SudhaarAI — Generative AI Code Assistant](./Semester%207/Entrepreneurship/FYP%20Business%20Plan/)
 A comprehensive business plan and SRS for an advanced AI-powered software assistant that optimizes legacy code and provides real-time contextual enhancements. 
 * *Technologies/Methods: Business Strategy, Venture Finance, SRS, System Design.*
 
@@ -64,11 +64,11 @@ A high-performance concurrent client-server framework enabling remote command ex
 Official implementation of a cryptographic digital signature validator and verification system designed to validate file authenticity using public-key infrastructure.
 * *Technologies: Cryptography, Digital Signatures, PKI, Security Verification.*
 
-### 🐳 [Docker Compose Load Balancing & Scaling Lab](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/Task/)
+### 🐳 [Docker Compose Load Balancing & Scaling Lab](./Semester%207/Parallel%20and%20Distributed%20Computing/Task/)
 A highly efficient, scalable system demonstrating Flask application load-balancing behind an Nginx reverse proxy. It scales dynamically and computes task speedups, evaluating the efficiency gains through Amdahl's Law.
 * *Technologies: Docker, Docker Compose, Nginx, Python, Flask.*
 
-### 🧠 [Machine Learning Algorithms From Scratch](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Machine%20Learning/)
+### 🧠 [Machine Learning Algorithms From Scratch](./Semester%207/Machine%20Learning/)
 Five massive homework assignments where core machine learning components were coded strictly using base Python and Numpy:
 1. **Clustering & Classification**: K-Means, DBSCAN (density-based clustering), and KNN (k-Nearest Neighbors).
 2. **Regression Analysis**: Outlier analysis and loss metrics (MSE vs. MAE) in custom Linear Regression models.

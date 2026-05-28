@@ -11,21 +11,21 @@ This course teaches how to build high-throughput, low-latency applications by ha
 This directory contains the following academic resources and subprojects:
 
 *   **📘 Curriculum Details**:
-    *   [PDC Course Outline.pdf](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/PDC%20Course%20Outline.pdf) — Formal syllabus mapping credits, textbook chapters, and assessment parameters.
+    *   [PDC Course Outline.pdf](./PDC_Course_Outline.pdf) — Formal syllabus mapping credits, textbook chapters, and assessment parameters.
 *   **📚 Core Textbooks & Overviews**:
-    *   [An Introduction to Parallel Programming.pdf](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/An%20Introduction%20to%20Parallel%20Programming.pdf) — Core reference text by Peter S. Pacheco.
-    *   [Distributed Systems (3rd Ed).pdf](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/mvsteen-distributed-systems-3rd-preliminary-version-3-01pre-2017-170215.pdf) — Comprehensive guide on distributed systems by Maarten van Steen and Andrew S. Tanenbaum.
-    *   [Python Parallel & Concurrent Programming Overview.pdf](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/Python%20Parallel%20%26%20Concurrent%20Programming%20Overview.pdf) — Guide on Python multi-threading, multi-processing, and asyncio.
+    *   [An Introduction to Parallel Programming.pdf](./An%20Introduction%20to%20Parallel%20Programming.pdf) — Core reference text by Peter S. Pacheco.
+    *   [Distributed Systems (3rd Ed).pdf](./mvsteen-distributed-systems-3rd-preliminary-version-3-01pre-2017-170215.pdf) — Comprehensive guide on distributed systems by Maarten van Steen and Andrew S. Tanenbaum.
+    *   [Python Parallel & Concurrent Programming Overview.pdf](./Python%20Parallel%20%26%20Concurrent%20Programming%20Overview.pdf) — Guide on Python multi-threading, multi-processing, and asyncio.
 *   **📑 Lecture Slides (LEC 1 to 13)**:
     *   Lectures delivered by **Dr. Muzamil Ahmed**, introducing parallel architectures, memory models (Shared vs. Distributed), MPI (Message Passing Interface), OpenMP, mutual exclusion, thread safety, and load balancing algorithms.
 *   **🔧 Subdirectories**:
-
+ 
 | Folder | Focus | Key Topics & Contents | Documentation |
 | :--- | :---: | :--- | :---: |
-| **[Assignment #01](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/Assignment%2301/)** | Theoretical Foundations | Speedups, efficiency calculations, Amdahl's Law, Gustafson's Law, and Flynn's Taxonomy. | [Explore](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/Assignment%2301/README.md) |
-| **[Assignment #02](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/Assignment%2302/)** | Algorithmic Paradigms | Greedy task scheduling, DNA Sequence Alignment, and Exam Timetabling optimization in Python. | [Explore](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/Assignment%2302/README.md) |
-| **[Project Details](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/Project%20Details/)** | Study Guides & Maps | Comprehensive PDC exam mappings and high-yield review sheets for quizzes. | [Explore](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/Project%20Details/README.md) |
-| **[Task (Scaling Lab)](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/Task/)** | Horizontal Scaling | Custom container scaling utilizing **Docker**, **Docker Compose**, and **Nginx Reverse Proxy**. | [Read README](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/Task/README.md) |
+| **[Assignment #01](./Assignment%2301/)** | Theoretical Foundations | Speedups, efficiency calculations, Amdahl's Law, Gustafson's Law, and Flynn's Taxonomy. | [Explore](./Assignment%2301/README.md) |
+| **[Assignment #02](./Assignment%2302/)** | Algorithmic Paradigms | Greedy task scheduling, DNA Sequence Alignment, and Exam Timetabling optimization in Python. | [Explore](./Assignment%2302/README.md) |
+| **[Project Details](./Project%20Details/)** | Study Guides & Maps | Comprehensive PDC exam mappings and high-yield review sheets for quizzes. | [Explore](./Project%20Details/README.md) |
+| **[Task (Scaling Lab)](./Task/)** | Horizontal Scaling | Custom container scaling utilizing **Docker**, **Docker Compose**, and **Nginx Reverse Proxy**. | [Read README](./Task/README.md) |omputing/Task/README.md) |
 
 ---
 
@@ -67,7 +67,7 @@ A major highlight of this course was the design and implementation of a dynamic 
 3.  **Amdahl's Law Evaluation**: Demonstrated how synchronization overheads (serial execution bottlenecks) cap overall system speedup.
 
 Check the details directly in:
-➡️ **[Docker Scaling Task README](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/Task/README.md)**
+➡️ **[Docker Scaling Task README](./Task/README.md)**
 
 ---
 

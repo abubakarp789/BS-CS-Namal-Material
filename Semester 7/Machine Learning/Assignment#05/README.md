@@ -9,14 +9,14 @@ LSTMs are advanced deep learning architectures designed to process sequential da
 ## 📂 Directory Contents
 
 *   **💻 Python Neural Engines**:
-    *   [lstm_from_scratch.py](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Machine%20Learning/Assignment%2305/lstm_from_scratch.py) — Core implementation script containing the LSTM cell definitions, forward propagation, Backpropagation Through Time (BPTT), weight updates, and training loops.
-    *   [generate_report.py](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Machine%20Learning/Assignment%2305/generate_report.py) — Automates training sweeps and plots performance comparisons.
+    *   [lstm_from_scratch.py](./lstm_from_scratch.py) — Core implementation script containing the LSTM cell definitions, forward propagation, Backpropagation Through Time (BPTT), weight updates, and training loops.
+    *   [generate_report.py](./generate_report.py) — Automates training sweeps and plots performance comparisons.
 *   **📝 Design & Planning Guides**:
-    *   [lstm_implementation_from_scratch_plan.md](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Machine%20Learning/Assignment%2305/lstm_implementation_from_scratch_plan.md) — Architectural design plan breaking down forward/backward cell equations.
-    *   [cursor_lstm_prompt.md](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Machine%20Learning/Assignment%2305/cursor_lstm_prompt.md) — Technical instructions and requirements.
+    *   [lstm_implementation_from_scratch_plan.md](./lstm_implementation_from_scratch_plan.md) — Architectural design plan breaking down forward/backward cell equations.
+    *   [cursor_lstm_prompt.md](./cursor_lstm_prompt.md) — Technical instructions and requirements.
 *   **📄 Written Reports**:
-    *   [LSTM_Assignment_Report.pdf](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Machine%20Learning/Assignment%2305/LSTM_Assignment_Report.pdf) — Formal research report analyzing LSTM cell mechanics, mathematical derivations of gradients, and learning rate sweeps.
-    *   [LSTM_Assignment_Report.docx](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Machine%20Learning/Assignment%2305/LSTM_Assignment_Report.docx) — Source report document.
+    *   [LSTM_Assignment_Report.pdf](./LSTM_Assignment_Report.pdf) — Formal research report analyzing LSTM cell mechanics, mathematical derivations of gradients, and learning rate sweeps.
+    *   [LSTM_Assignment_Report.docx](./LSTM_Assignment_Report.docx) — Source report document.
 *   **📸 Output Visualization Directory (plots/)**:
     *   Houses pre-rendered charts tracking training losses, gate activation patterns, cell state progression, learning rates, initialization benchmarks, and hidden state comparisons.
 

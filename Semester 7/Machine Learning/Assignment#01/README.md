@@ -9,14 +9,14 @@ The task evaluates these models on two distinct synthetic datasets: a clean **co
 ## 📂 Directory Contents
 
 *   **💻 Implementation Python Scripts**:
-    *   [Kmeans_BDSCAN_KNN_code_no_noise.py](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Machine%20Learning/Assignment%2301/Kmeans_BDSCAN_KNN_code_no_noise.py) — Custom scripts evaluating the algorithms on the clean convex dataset.
-    *   [Kmeans_DBSCAN_KNN_code_noise.py](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Machine%20Learning/Assignment%2301/Kmeans_DBSCAN_KNN_code_noise.py) — Scripts optimized for handling clustering with high noise levels.
+    *   [Kmeans_BDSCAN_KNN_code_no_noise.py](./Kmeans_BDSCAN_KNN_code_no_noise.py) — Custom scripts evaluating the algorithms on the clean convex dataset.
+    *   [Kmeans_DBSCAN_KNN_code_noise.py](./Kmeans_DBSCAN_KNN_code_noise.py) — Scripts optimized for handling clustering with high noise levels.
 *   **📊 Input Datasets (CSV)**:
     *   `Kmeans_DBScan_KNN_convex_no_noise.csv` — 2D convex dataset representing clean cluster circles.
     *   `Kmeans_DBScan_KNN_complex_noise.csv` — Messy, non-linear dataset containing arbitrary shapes and noise points.
 *   **📄 Written Reports**:
-    *   [Abubakar_Assignment 01_Kmeans_DBScan_KNN_Report.pdf](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Machine%20Learning/Assignment%2301/Abubakar_Assignment%2001_Kmeans_DBScan_KNN_Report.pdf) — Comprehensive, peer-reviewed evaluation report analyzing hyperparameter settings, convergence rates, and performance comparisons.
-    *   [Assignment 01_Kmeans_DBScan_KNN.docx](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Machine%20Learning/Assignment%2301/Assignment%2001_Kmeans_DBScan_KNN.docx) — Source assignment sheet and report drafts.
+    *   [Abubakar_Assignment 01_Kmeans_DBScan_KNN_Report.pdf](./Abubakar_Assignment%2001_Kmeans_DBScan_KNN_Report.pdf) — Comprehensive, peer-reviewed evaluation report analyzing hyperparameter settings, convergence rates, and performance comparisons.
+    *   [Assignment 01_Kmeans_DBScan_KNN.docx](./Assignment%2001_Kmeans_DBScan_KNN.docx) — Source assignment sheet and report drafts.
 *   **📸 Output Visualization Directory**:
     *   Pre-rendered plots illustrating raw ground truth, K-Means convergence, DBSCAN density chains, and KNN decision mappings.
 

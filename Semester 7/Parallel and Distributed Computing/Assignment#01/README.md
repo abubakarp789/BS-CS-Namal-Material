@@ -9,9 +9,9 @@ The assignment focuses on the mathematical models that dictate the absolute limi
 ## 📂 Directory Contents
 
 *   **📄 Complete Assignment Deliverables**:
-    *   [Abubakar_41_CS440_Assignment1.pdf](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/Assignment%2301/Abubakar_41_CS440_Assignment1.pdf) — Abubakar's final submitted PDF report containing full mathematical derivations, detailed diagrams, and step-by-step solutions.
-    *   [Abubakar_41_CS440_Assignment1.docx](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/Assignment%2301/Abubakar_41_CS440_Assignment1.docx) — Editable source document of the submission.
-    *   [Assignment 1.docx](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Parallel%20and%20Distributed%20Computing/Assignment%2301/Assignment%201.docx) — Official question sheet provided by the instructor.
+    *   [Abubakar_41_CS440_Assignment1.pdf](./Abubakar_41_CS440_Assignment1.pdf) — Abubakar's final submitted PDF report containing full mathematical derivations, detailed diagrams, and step-by-step solutions.
+    *   [Abubakar_41_CS440_Assignment1.docx](./Abubakar_41_CS440_Assignment1.docx) — Editable source document of the submission.
+    *   [Assignment 1.docx](./Assignment%201.docx) — Official question sheet provided by the instructor.
 
 ---
 

@@ -11,13 +11,13 @@ This project translates the deep philosophical poetry of **Allama Muhammad Iqbal
 This directory contains the following project resources:
 
 *   **📄 Research & Field Execution Report**:
-    *   [Tariq_ki_Dua_Report.pdf](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Iqbaliyat/Iqbaliyat%20Project%20(NUM-BSCS-2022-41)/Tariq_ki_Dua_Report.pdf) — Complete academic report detailing the project scope, workshop outlines, interactive activities, target student demographics, feedback loops, and philosophical reflections.
+    *   [Tariq_ki_Dua_Report.pdf](../Iqbaliyat%20Project%20%28NUM-BSCS-2022-41)/Tariq_ki_Dua_Report.pdf) — Complete academic report detailing the project scope, workshop outlines, interactive activities, target student demographics, feedback loops, and philosophical reflections.
 *   **🏆 Validation Certificate**:
-    *   [Certificate.png](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Iqbaliyat/Iqbaliyat%20Project%20(NUM-BSCS-2022-41)/Certificate.png) — Official course certification confirming successful execution of the community project.
+    *   [Certificate.png](../Iqbaliyat%20Project%20%28NUM-BSCS-2022-41)/Certificate.png) — Official course certification confirming successful execution of the community project.
 *   **📸 Execution Gallery**:
-    *   [picture 1.png](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Iqbaliyat/Iqbaliyat%20Project%20(NUM-BSCS-2022-41)/picture%201.png) — Workshop session teaching Iqbal's concepts of moral strength.
-    *   [picture 2.png](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Iqbaliyat/Iqbaliyat%20Project%20(NUM-BSCS-2022-41)/picture%202.png) — Interactive student participation activity.
-    *   [picture 3.png](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Iqbaliyat/Iqbaliyat%20Project%20(NUM-BSCS-2022-41)/picture%203.png) — Group photo with workshop attendees and educators.
+    *   [picture 1.png](../Iqbaliyat%20Project%20%28NUM-BSCS-2022-41)/picture%201.png) — Workshop session teaching Iqbal's concepts of moral strength.
+    *   [picture 2.png](../Iqbaliyat%20Project%20%28NUM-BSCS-2022-41)/picture%202.png) — Interactive student participation activity.
+    *   [picture 3.png](../Iqbaliyat%20Project%20%28NUM-BSCS-2022-41)/picture%203.png) — Group photo with workshop attendees and educators.
 
 ---
 

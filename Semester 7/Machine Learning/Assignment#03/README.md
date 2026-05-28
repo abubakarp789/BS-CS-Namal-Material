@@ -9,12 +9,12 @@ LDA is a powerful supervised dimensionality reduction and classification techniq
 ## 📂 Directory Contents
 
 *   **💻 Implementation Python Script**:
-    *   [lda_implementation.py](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Machine%20Learning/Assignment%2303/lda_implementation.py) — Core LDA engine computing class means, within-class ($S_W$) and between-class ($S_B$) scatter matrices, eigenvalue solutions, and final decision boundaries.
+    *   [lda_implementation.py](./lda_implementation.py) — Core LDA engine computing class means, within-class ($S_W$) and between-class ($S_B$) scatter matrices, eigenvalue solutions, and final decision boundaries.
 *   **📊 Input Dataset (CSV)**:
     *   `lda_3d_two_class_dataset.csv` — A 3D dataset containing three continuous features across two distinct classes.
 *   **📄 Written Reports**:
-    *   [Abubakar(41)_Assignment#03_Report.pdf](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Machine%20Learning/Assignment%2303/Abubakar(41)_Assignment%2303_Report.pdf) — Comprehensive scientific report covering the mathematical derivation of LDA, scatter matrices, covariance properties, and validation benchmarks.
-    *   [Assignment 03.docx](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Machine%20Learning/Assignment%2303/Assignment%2003.docx) — Source assignment specifications.
+    *   [Abubakar(41)_Assignment#03_Report.pdf](./Abubakar%2841)_Assignment%2303_Report.pdf) — Comprehensive scientific report covering the mathematical derivation of LDA, scatter matrices, covariance properties, and validation benchmarks.
+    *   [Assignment 03.docx](./Assignment%2003.docx) — Source assignment specifications.
 *   **📸 Output Visualization Directory**:
     *   Pre-rendered plots illustrating the raw 3D coordinate distribution, pairwise correlations, 1D projection results, and the final classification confusion matrix.
 

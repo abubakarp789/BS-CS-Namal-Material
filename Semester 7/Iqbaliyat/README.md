@@ -11,11 +11,11 @@ Iqbaliyat focuses on the literary, philosophical, and educational concepts of **
 This directory contains the following academic resources:
 
 *   **📑 Presentation & Slides**:
-    *   [لب پہ آتی ہے دعا بن کے تمنا.pptx](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Iqbaliyat/لب%20پہ%20آتی%20ہے%20دعا%20بن%20کے%20تمنا.pptx) — Comprehensive presentation analyzing the legendary educational prayer *"Lab Pe Aati Hai Dua Ban Ke Tamanna Meri"* (A child's prayer), explaining its historical context, values, and philosophical message.
+    *   [لب پہ آتی ہے دعا بن کے تمنا.pptx](./%D9%84%D8%A8%20%D9%BE%DB%81%20%D8%A2%D8%AA%DB%8C%20%DB%81%DB%92%20%D8%AF%D8%B9%D8%A7%20%D8%A8%D9%86%20%DA%A9%DB%92%20%D8%AA%D9%85%D9%86%D8%A7.pptx) — Comprehensive presentation analyzing the legendary educational prayer *"Lab Pe Aati Hai Dua Ban Ke Tamanna Meri"* (A child's prayer), explaining its historical context, values, and philosophical message.
 *   **🖊️ Assignments**:
-    *   [Assignment 1.pdf](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Iqbaliyat/Assignment%201.pdf) — Written research assignment evaluating Allama Iqbal's concepts of societal reform and self-realization.
+    *   [Assignment 1.pdf](./Assignment%201.pdf) — Written research assignment evaluating Allama Iqbal's concepts of societal reform and self-realization.
 *   **🕌 Practical Field Project**:
-    *   **[Iqbaliyat Project (NUM-BSCS-2022-41)](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Iqbaliyat/Iqbaliyat%20Project%20(NUM-BSCS-2022-41)/)** — A dedicated project subdirectory detailing a real-world community awareness and educational campaign based on the poem *"Tariq ki Dua"* (Tariq's Prayer).
+    *   **[Iqbaliyat Project (NUM-BSCS-2022-41)](./Iqbaliyat%20Project%20%28NUM-BSCS-2022-41)/)** — A dedicated project subdirectory detailing a real-world community awareness and educational campaign based on the poem *"Tariq ki Dua"* (Tariq's Prayer).
 
 ---
 
@@ -31,7 +31,7 @@ The major highlight of this course was a practical community field project title
 2.  **Visual Evidence & Certificate**: PNG files capturing community engagement, school presentations, and the final course project validation certificate.
 
 For detailed project outlines, presentation reviews, and visual archives, please navigate to the project directory:
-➡️ **[Tariq ki Dua Project README](file:///c:/Users/abuba/OneDrive/Desktop/BS-CS-Namal-Material/Semester%207/Iqbaliyat/Iqbaliyat%20Project%20(NUM-BSCS-2022-41)/README.md)**
+➡️ **[Tariq ki Dua Project README](./Iqbaliyat%20Project%20%28NUM-BSCS-2022-41)/README.md)**
 
 ---
 
