@@ -2,7 +2,7 @@
 
 Welcome to the **Web Application Development (WAD)** course repository! This folder archives comprehensive lecture slides, practical lab exercises, document assignments, MongoDB database scripts & certificates, and full-stack web applications completed during Semester 8.
 
-This course provides a end-to-end mastery of modern Web Engineering and the **MERN (MongoDB, Express.js, React, Node.js)** stack, covering frontend UI design, responsive layouts, asynchronous JavaScript (ES6+), RESTful microservices, and NoSQL database management.
+This course provides end-to-end practice in modern web engineering and the **MERN (MongoDB, Express.js, React, Node.js)** stack, covering frontend UI design, responsive layouts, asynchronous JavaScript (ES6+), RESTful APIs, and NoSQL database management.
 
 ---
 

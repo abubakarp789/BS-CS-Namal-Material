@@ -1,4 +1,4 @@
-e# 🔤 Natural Language Processing (CS-442)
+# 🔤 Natural Language Processing (CS-442)
 
 Welcome to the **Natural Language Processing (NLP)** course repository! This directory houses lecture presentations, course outlines, mathematical blueprints, and state-of-the-art transformer paper study decks completed during Semester 8.
 
