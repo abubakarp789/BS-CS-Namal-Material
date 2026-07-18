@@ -2,12 +2,12 @@
 
 [![Namal University](https://img.shields.io/badge/University-Namal%20University-blue?style=for-the-badge&logo=education)](https://www.namal.edu.pk/)
 [![Degree](https://img.shields.io/badge/Degree-BS%20Computer%20Science-darkgreen?style=for-the-badge)](https://www.namal.edu.pk/)
-[![Semester](https://img.shields.io/badge/Current%20Semester-Semester%207-orange?style=for-the-badge)](./Semester%207/)
+[![Semesters](https://img.shields.io/badge/Semesters-Semester%207%20%26%208-orange?style=for-the-badge)](./Semester%208/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 Welcome to my academic repository! This repository serves as a comprehensive, structured archive of all labs, programming assignments, projects, exam study guides, and research materials that I have completed during my **Bachelor of Science in Computer Science (BS CS)** degree at **Namal University Mianwali**. 
 
-The goal of this repository is to track my academic progression, showcase from-scratch implementations of complex computer science concepts (ranging from Machine Learning algorithms to distributed container orchestrations), and act as a detailed reference for junior students, recruiters, and peers.
+The goal of this repository is to track my academic progression, showcase from-scratch implementations of complex computer science concepts (ranging from Machine Learning algorithms to distributed container orchestrations and Transformer models), and act as a detailed reference for junior students, recruiters, and peers.
 
 ---
 
@@ -17,7 +17,8 @@ Below is the directory map of the repository, categorized by semester and course
 
 ```mermaid
 graph TD
-    Root[BS-CS-Namal-Material] --> Sem7["📅 Semester 7 (Active Archive)"]
+    Root[BS-CS-Namal-Material] --> Sem7["📅 Semester 7"]
+    Root[BS-CS-Namal-Material] --> Sem8["📅 Semester 8"]
     
     Sem7 --> CS["🛡️ Cyber Security"]
     Sem7 --> EN["💼 Entrepreneurship"]
@@ -31,6 +32,14 @@ graph TD
     PDC --> PDCA["🔧 2 Code Optimizations"]
     PDC --> PDCT["🐳 Docker Scaling & Nginx Lab"]
     PDC --> PDCP["📚 Exam & Quiz Guides"]
+
+    Sem8 --> NLP["🔤 Natural Language Processing"]
+    Sem8 --> PPE["⚖️ Professional Practice & Ethics"]
+    Sem8 --> WAD["🌐 Web Application Development"]
+
+    NLP --> NLPA["🤖 BERT, ELMo, RoBERTa, XLNet & Blueprints"]
+    PPE --> PPEA["📚 HBR Business Writing & SudhaarAI Presentation"]
+    WAD --> WADA["💻 MERN Stack, MongoDB, & Student Portal Vite App"]
 ```
 
 ---
@@ -48,6 +57,15 @@ graph TD
 | **💼 Entrepreneurship** | CS-363 | **SudhaarAI**: A complete Software Requirements Specification (SRS) and comprehensive business venture plan. | [Explore](./Semester%207/Entrepreneurship/) |
 | **📖 Iqbaliyat** | SS-102 | Poetic and philosophical exploration of Allama Iqbal's "Tariq ki Dua", containing research reports and certificate work. | [Explore](./Semester%207/Iqbaliyat/) |
 
+### 📅 [Semester 8](./Semester%208/README.md)
+*Focus: Natural Language Processing (Transformers), Professional Ethics & Leadership, and Full-Stack Web Application Development (MERN Stack).*
+
+| Course | Code / Type | Key Deliverables & Projects | Documentation |
+| :--- | :---: | :--- | :---: |
+| **🔤 Natural Language Processing** | CS-442 | Vector Semantics, Word Embeddings, Attention, Transformers (**BERT, RoBERTa, XLNet**), & **[Urdu Tweets Classifier Repo](https://github.com/abubakarp789/Robust-Sentiment-and-Emotion-Classification-on-Noisy-Urdu-Tweets)**. | [Explore](./Semester%208/NLP/) |
+| **⚖️ Professional Practice & Ethics** | CS-490 | IEEE/ACM Ethics, HBR Business Writing Manuals, Personal Branding, CV Portfolio, and **SudhaarAI Product Ethics**. | [Explore](./Semester%208/PPE/) |
+| **🌐 Web Application Development** | CS-450 | MERN Stack, **[Rumi House Hub](https://github.com/abubakarp789/Rumi-House-Hub)**, **[WAD-Assignments](https://github.com/abubakarp789/WAD-Assignments)**, **[WAD-Tasks](https://github.com/abubakarp789/WAD-Tasks)**, and Express APIs. | [Explore](./Semester%208/WAD/) |
+
 ---
 
 ## 🚀 Key Highlights & Major Projects
@@ -63,6 +81,14 @@ A high-performance concurrent client-server framework enabling remote command ex
 ### 🛡️ [Certea — Digital Signature Validator (Cyber Security Project)](https://github.com/abubakarp789/Certea)
 Official implementation of a cryptographic digital signature validator and verification system designed to validate file authenticity using public-key infrastructure.
 * *Technologies: Cryptography, Digital Signatures, PKI, Security Verification.*
+
+### 🔤 [Noisy Urdu Tweet Sentiment & Emotion Classifier (NLP Project)](https://github.com/abubakarp789/Robust-Sentiment-and-Emotion-Classification-on-Noisy-Urdu-Tweets)
+Fine-tuning and benchmarking Transformer architectures (BERT, RoBERTa, XLNet, ELMo) and vector embeddings for sentiment and emotion classification on noisy Roman/Urdu tweet corpora.
+* *Technologies: PyTorch, Transformers, BERT, RoBERTa, XLNet, Word Embeddings, NLP.*
+
+### 🌐 [Rumi House Hub — Student Operations Portal (WAD Project)](https://github.com/abubakarp789/Rumi-House-Hub)
+A full-stack MERN portal unifying student engagement, society enrollments, event proposal workflows, dynamic seat RSVPs, and digital QR gate attendance verification.
+* *Technologies: React, Vite, Node.js, Express.js, MongoDB, JWT, Tailwind CSS, REST APIs.*
 
 ### 🐳 [Docker Compose Load Balancing & Scaling Lab](./Semester%207/Parallel%20and%20Distributed%20Computing/Task/)
 A highly efficient, scalable system demonstrating Flask application load-balancing behind an Nginx reverse proxy. It scales dynamically and computes task speedups, evaluating the efficiency gains through Amdahl's Law.
@@ -80,11 +106,12 @@ Five massive homework assignments where core machine learning components were co
 
 ## 🛠️ Tech Stack & Skills Acquired
 
-* **Languages**: Python, C++, SQL, Bash, Markdown, LaTeX
-* **AI/ML**: Neural Networks, LSTM, PCA, LDA, Clustering, Regression, Optimization
+* **Languages**: Python, JavaScript (ES6+), C++, SQL, HTML5/CSS3, Bash, Markdown, LaTeX
+* **AI/ML & NLP**: Transformers, BERT, RoBERTa, XLNet, Word Embeddings (Word2Vec/GloVe), LSTM, Neural Networks, PCA, LDA, Clustering, Regression
+* **Web Development & MERN Stack**: React.js, Vite, Node.js, Express.js, MongoDB, RESTful APIs, Bootstrap 5
 * **DevOps & Distributed Systems**: Docker, Docker Compose, Nginx, Load Balancing, Parallel Multiprocessing
 * **Cybersecurity**: Burp Suite, Network Spoofing (ARP/DHCP), Cryptography, SQLi, Cross-Site Scripting (XSS), CSRF
-* **Soft Skills**: Business Modeling, Pitch Presentations, Technical Writing (SRS), Philosophy and Critical Analysis
+* **Soft Skills & Governance**: Professional Practice & Computing Ethics (IEEE/ACM), HBR Business Writing, Startup Modeling, Pitch Presentations, Technical Writing (SRS)
 
 ---
 

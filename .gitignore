@@ -147,3 +147,8 @@ Thumbs.db
 *.njsproj
 *.sln
 *.sw?
+
+# Node.js dependencies
+node_modules/
+**/node_modules/
+
