@@ -115,6 +115,16 @@ Five massive homework assignments where core machine learning components were co
 
 ---
 
+## Author
+
+**Abu Bakar Panhwar**<br>
+BS Computer Science, Namal University Mianwali<br>
+Registration number: `NUM-BSCS-2022-41`<br>
+Email: [abubakarp789@gmail.com](mailto:abubakarp890@gmail.com)<br>
+GitHub: [@abubakarp789](https://github.com/abubakarp789)
+
+---
+
 ## 🤝 How to Use This Repo
 
 Feel free to browse through the folders to inspect course materials, scripts, and reports:
