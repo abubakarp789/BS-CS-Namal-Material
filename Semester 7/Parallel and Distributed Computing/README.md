@@ -25,7 +25,7 @@ This directory contains the following academic resources and subprojects:
 | **[Assignment #01](./Assignment%2301/)** | Theoretical Foundations | Speedups, efficiency calculations, Amdahl's Law, Gustafson's Law, and Flynn's Taxonomy. | [Explore](./Assignment%2301/README.md) |
 | **[Assignment #02](./Assignment%2302/)** | Algorithmic Paradigms | Greedy task scheduling, DNA Sequence Alignment, and Exam Timetabling optimization in Python. | [Explore](./Assignment%2302/README.md) |
 | **[Project Details](./Project%20Details/)** | Study Guides & Maps | Comprehensive PDC exam mappings and high-yield review sheets for quizzes. | [Explore](./Project%20Details/README.md) |
-| **[Task (Scaling Lab)](./Task/)** | Horizontal Scaling | Custom container scaling utilizing **Docker**, **Docker Compose**, and **Nginx Reverse Proxy**. | [Read README](./Task/README.md) |omputing/Task/README.md) |
+| **[Task (Scaling Lab)](./Task/)** | Horizontal Scaling | Custom container scaling utilizing **Docker**, **Docker Compose**, and **Nginx Reverse Proxy**. | [Read README](./Task/README.md) |
 
 ---
 
