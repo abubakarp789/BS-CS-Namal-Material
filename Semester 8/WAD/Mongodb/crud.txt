@@ -1,0 +1,33 @@
+>show dbs
+>use mydb
+>show collections
+
+----------------- INSERT OPERATION ---------
+>db.employees.insert({_id:1,name:'mohan'})
+>db.employees.insert({_id:2,firstName:'shailendra',lastName:'chauhan'})
+>db.employees.insert({_id:3,firstName:'rama',lastName:'chauhan'})
+
+>db.employees.insertMany([{_id:4,firstName:'sohan',lastName:'kumar'},
+{_id:5,firstName:'rahul',lastName:'kumar'}])
+
+----------------- RETRIEVE OPERATION ---------
+>db.employees.find();
+>db.employees.find().pretty();
+>db.employees.find({_id:1});
+>db.employees.find({lastName:"chauhan"});
+
+>db.employees.findOne({_id:1});
+>db.employees.findOne({lastName:"chauhan"});
+
+----------------- Update OPERATION ---------
+>db.employees.update({_id:1},{$set:{name:'mohan',lastName:'kumar'}});
+>db.employees.update({_id:1},{$rename:{'name':'firstName'}});
+
+>db.employees.updateOne({_id:1},{$set:{firstName:'mohit',lastName:'kumar'}});
+>db.employees.updateMany({lastName:'chauhan'},{$set:{lastName:'kumar'}});
+
+----------- DELETE OPERATION ---------
+>db.employees.remove({_id:1})
+>db.employees.deleteOne({_id:2})
+>db.employees.deleteMany({lastName:'chauhan'})
+

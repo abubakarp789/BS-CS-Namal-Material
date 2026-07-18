@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>First Edition Auctions</title>
+<style>
+  *, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #fff;
+    padding: 2rem;
+    color: #000;
+  }
+
+  .container {
+    max-width: 800px;
+  }
+
+  h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    letter-spacing: 0.5px;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 2rem;
+  }
+
+  th {
+    font-size: 0.95rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 1rem 0;
+    letter-spacing: 0.5px;
+    border-bottom: 2px solid #000;
+  }
+  
+  thead {
+    position: relative;
+  }
+
+  /* Creating the top thin borders with gaps */
+  thead::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background: linear-gradient(to right, 
+      #ccc 0%, #ccc 24%, 
+      transparent 24%, transparent 25%, 
+      #ccc 25%, #ccc 60%, 
+      transparent 60%, transparent 61%, 
+      #ccc 61%, #ccc 80%,
+      transparent 80%, transparent 81%, 
+      #ccc 81%, #ccc 100%);
+  }
+
+  td {
+    padding: 0.8rem 1rem;
+    font-size: 1.05rem;
+  }
+
+  th:first-child, td:first-child {
+    padding-left: 0.5rem;
+    text-align: left;
+  }
+
+  th:nth-child(2), td:nth-child(2) {
+    text-align: left;
+  }
+
+  th:nth-child(3), td:nth-child(3),
+  th:nth-child(4), td:nth-child(4) {
+    text-align: right;
+  }
+
+  th:last-child, td:last-child {
+    padding-right: 0.5rem;
+  }
+
+  tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>First Edition Auctions</h1>
+  <table>
+    <thead>
+      <tr>
+        <th>Author</th>
+        <th>Title</th>
+        <th>Reserve Price</th>
+        <th>Current Bid</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>E.E. Cummings</td>
+        <td>Tulips &amp; Chimneys</td>
+        <td>$2,000.00</td>
+        <td>$2,642.50</td>
+      </tr>
+      <tr>
+        <td>Charles d'Orleans</td>
+        <td>Poemes</td>
+        <td></td>
+        <td>$5,866.00</td>
+      </tr>
+      <tr>
+        <td>T.S. Eliot</td>
+        <td>Poems 1909 - 1925</td>
+        <td>$1,250.00</td>
+        <td>$8,499.35</td>
+      </tr>
+      <tr>
+        <td>Sylvia Plath</td>
+        <td>The Colossus</td>
+        <td></td>
+        <td>$1031.72</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+</body>
+</html>

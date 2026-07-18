@@ -1,0 +1,3 @@
+{"_id":{"$numberInt":"3"},"firstName":"ram","lastName":"chauhan","salary":{"$numberInt":"18000"}}
+{"_id":{"$numberInt":"4"},"firstName":"sohan","lastName":"kumar","salary":{"$numberInt":"15000"}}
+{"_id":{"$numberInt":"5"},"firstName":"rahul","lastName":"kumar","salary":{"$numberInt":"10000"}}

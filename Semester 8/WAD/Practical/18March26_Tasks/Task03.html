@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bootstrap Layout</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+</head>
+<body class="bg-white">
+
+  <!-- Navbar -->
+  <nav class="navbar bg-white px-3 py-2 border-bottom">
+    <div class="d-flex align-items-center">
+      <button class="btn text-white fw-bold" style="background-color:#e8720c; width:100px; height:60px;">100 x 60</button>
+    </div>
+    <div class="d-flex gap-4 ms-auto">
+      <a href="#" class="text-decoration-none text-secondary">Link</a>
+      <a href="#" class="text-decoration-none text-secondary">Link</a>
+      <a href="#" class="text-decoration-none text-secondary">Link</a>
+      <a href="#" class="text-decoration-none text-secondary">Link</a>
+    </div>
+  </nav>
+
+  <!-- Main Content -->
+  <div class="container-fluid px-4 py-3">
+
+    <!-- Section 1: Large left, 2x2 right -->
+    <div class="row g-3 mb-3">
+      <!-- Large Green Block -->
+      <div class="col-6">
+        <div class="d-flex align-items-center justify-content-center text-white fw-bold fs-3 rounded"
+             style="background-color:#2ecc71; height:400px;">
+          600 x 400
+        </div>
+      </div>
+      <!-- 2x2 Grid Right -->
+      <div class="col-6">
+        <div class="row g-3">
+          <div class="col-6">
+            <div class="d-flex align-items-center justify-content-center text-white fw-bold rounded"
+                 style="background-color:#3498db; height:190px;">
+              300 x 205
+            </div>
+          </div>
+          <div class="col-6">
+            <div class="d-flex align-items-center justify-content-center text-white fw-bold rounded"
+                 style="background-color:#e74c3c; height:190px;">
+              300 x 205
+            </div>
+          </div>
+          <div class="col-6">
+            <div class="d-flex align-items-center justify-content-center text-white fw-bold rounded"
+                 style="background-color:#f1c40f; height:190px;">
+              300 x 205
+            </div>
+          </div>
+          <div class="col-6">
+            <div class="d-flex align-items-center justify-content-center text-white fw-bold rounded"
+                 style="background-color:#9b59b6; height:190px;">
+              300 x 205
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Section 2: 2x2 left, Large right -->
+    <div class="row g-3 mb-3">
+      <!-- 2x2 Grid Left -->
+      <div class="col-6">
+        <div class="row g-3">
+          <div class="col-6">
+            <div class="d-flex align-items-center justify-content-center text-white fw-bold rounded"
+                 style="background-color:#3498db; height:190px;">
+              300 x 205
+            </div>
+          </div>
+          <div class="col-6">
+            <div class="d-flex align-items-center justify-content-center text-white fw-bold rounded"
+                 style="background-color:#e74c3c; height:190px;">
+              300 x 205
+            </div>
+          </div>
+          <div class="col-6">
+            <div class="d-flex align-items-center justify-content-center text-white fw-bold rounded"
+                 style="background-color:#f1c40f; height:190px;">
+              300 x 205
+            </div>
+          </div>
+          <div class="col-6">
+            <div class="d-flex align-items-center justify-content-center text-white fw-bold rounded"
+                 style="background-color:#9b59b6; height:190px;">
+              300 x 205
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Large Green Block -->
+      <div class="col-6">
+        <div class="d-flex align-items-center justify-content-center text-white fw-bold fs-3 rounded"
+             style="background-color:#2ecc71; height:400px;">
+          600 x 400
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Footer -->
+  <footer class="bg-white border-top px-4 py-2 d-flex align-items-center justify-content-between">
+    <!-- Left: Orange buttons -->
+    <div class="d-flex gap-2 align-items-center">
+      <button class="btn text-white fw-bold" style="background-color:#e8720c; width:100px; height:60px; font-size:12px;">100 x 60</button>
+      <button class="btn text-white fw-bold" style="background-color:#e8720c; width:100px; height:60px; font-size:12px;">100 x 60</button>
+      <button class="btn text-white fw-bold" style="background-color:#e8720c; width:60px; height:60px; font-size:10px;">60 X 60</button>
+      <button class="btn text-white fw-bold" style="background-color:#e8720c; width:30px; height:60px; font-size:10px;">30 X 60</button>
+      <button class="btn text-white fw-bold" style="background-color:#e8720c; width:100px; height:60px; font-size:12px;">100 x 60</button>
+    </div>
+    <!-- Right: Blue icon buttons -->
+    <div class="d-flex gap-2">
+      <button class="btn rounded-circle d-flex align-items-center justify-content-center border-0" style="background-color:#5b9bd5; width:50px; height:50px;">
+        <i class="bi bi-check2 text-white fs-4 fw-bold"></i>
+      </button>
+      <button class="btn rounded-circle d-flex align-items-center justify-content-center border-0" style="background-color:#5b9bd5; width:50px; height:50px;">
+        <i class="bi bi-question-lg text-white fs-4 fw-bold"></i>
+      </button>
+      <button class="btn rounded-circle d-flex align-items-center justify-content-center border-0" style="background-color:#5b9bd5; width:50px; height:50px;">
+        <i class="bi bi-info-lg text-white fs-4 fw-bold"></i>
+      </button>
+    </div>
+  </footer>
+</body>
+</html>

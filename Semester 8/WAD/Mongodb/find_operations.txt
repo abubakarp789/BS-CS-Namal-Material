@@ -1,0 +1,15 @@
+
+-------- FIND AND OTHER OPERATIONS --------
+> db.employees.findOneAndDelete({_id:1})
+> db.employees.findOneAndUpdate({_id:2},{$set:{lastName:"kumar"}})
+>db.employees.findOneAndReplace({_id:2},{name:"shailendra chauhan",address:"noida"})
+>db.employees.find();
+
+db.employees.findAndModify({
+query: { _id: 2 },
+remove: true
+});
+db.employees.findAndModify({
+query: { _id: 3 },
+update: { $set: { firstName:"ram" } }
+});

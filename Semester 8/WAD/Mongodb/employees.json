@@ -1,0 +1,7 @@
+{"_id":{"$numberInt":"1"},"firstname":"shailendra","lastname":"chauhan","salary":{"$numberInt":"10000"}}
+{"_id":{"$numberInt":"2"},"firstname":"deepak","lastname":"kumar","salary":{"$numberInt":"12000"}}
+{"_id":{"$numberInt":"3"},"firstname":"mohan","lastname":"chauhan","salary":{"$numberInt":"8000"}}
+{"_id":{"$numberInt":"4"},"firstname":"kiran","lastname":"kumar","salary":{"$numberInt":"10000"}}
+{"_id":{"$numberInt":"5"},"firstname":"rohan","lastname":"kumar","salary":{"$numberInt":"12000"}}
+{"_id":{"$numberInt":"6"},"firstname":"Mohit","lastname":"kumar","salary":{"$numberInt":"10000"}}
+{"_id":{"$numberInt":"7"},"firstname":"Rajan","lastname":"kumar","salary":{"$numberInt":"9000"}}

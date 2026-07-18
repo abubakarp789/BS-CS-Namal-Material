@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let student = {
+            name: "Abu Bakar",
+            age: 22,
+            showinfo(){
+                console.log(this.name);
+            }
+        }
+        student.showinfo();
+
+        let student2 = {
+            name: "Shahbaz"
+        };
+        student2.showinfo = student.showinfo;
+        student2.showinfo();
+
+        function changeColor(element){
+            console.log(element);
+            element.innerText = "Text Changed!";
+        }
+    </script>
+    <button onclick="changeColor(this)">Click Me</button>
+</body>
+</html>

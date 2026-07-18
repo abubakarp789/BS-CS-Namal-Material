@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- Using inline 'this' -->
+    <button onclick="handleClick(this)">Click</button>
+    <script>
+        function handleClick(element){
+            // element refers to the button passed via 'this'
+            element.style.color = "blue";
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id="btn-name">Show Name</button>
+    <button id="btn-color">Change Color</button>
+
+    <script>
+        // 1. Regular function inside an object
+        const userObj = {
+            name: "Abu Bakar",
+            displayName: function() {
+                // Here, `this` refers to the `userObj` object
+                console.log("Regular Object Method - this.name:", this.name);
+            }
+        };
+
+        document.getElementById("btn-name").addEventListener("click", function() {
+            userObj.displayName();
+        });
+
+        // 2. Anonymous function for a click event
+        document.getElementById("btn-log").addEventListener("click", function() {
+            // Here, `this` refers to the button element that was clicked
+            console.log("Anonymous Event Listener - this:", this);
+            console.log("Button text:", this.innerText);
+        });
+
+        // 3. Arrow function for a click event to change background color
+        document.getElementById("btn-color").addEventListener("click", () => {
+            // Here, `this` refers to the Window object (lexical scope)
+            console.log("Arrow Event Listener - this:", this);
+            document.body.style.backgroundColor = "lightblue";
+        });
+    </script>
+</html>

@@ -1,0 +1,25 @@
+db.createCollection("customers", {
+    validator: { 
+	     _id: { $type: "number" }, 	
+           name: { $type: "string" }, 
+            age: { $type: "number", $gte: 18 }
+     }
+});
+
+//using json schema: recommended
+db.createCollection("students", {
+    validator: {
+        $jsonSchema: {
+            bsonType: "object",
+            required: ["name", "age"],
+            properties: {
+                name: { bsonType: "string", description: "must be a string and is required" },
+                age: {
+                    bsonType: "number", minimum: 18, maximum: 100,
+                    description: "must be a number between 18 & 100 and is required"
+                }
+            }
+        }
+    },
+    validationLevel: "moderate"
+})

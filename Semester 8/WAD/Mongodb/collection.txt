@@ -1,0 +1,11 @@
+>show dbs
+>use mydb
+>db.users.insert({_id:1,name:'mohan'})
+>show collections
+
+-------- Capped Collection -------
+>db.createCollection("activityLog",{capped:true,size:10000,max:1000});
+>db.activityLog.isCapped();
+>db.activityLog.renameCollection("log");
+>show collections
+>db.log.drop();

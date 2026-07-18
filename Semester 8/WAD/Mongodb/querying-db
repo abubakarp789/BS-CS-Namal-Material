@@ -1,0 +1,10 @@
+> db.employees.find();
+> db.employees.find({},{firstName:1});
+
+//excluding _id
+> db.employees.find({},{_id:0,firstName:1});
+> db.employees.find().count();
+> db.employees.find().limit(2);
+
+> db.employees.find().sort({firstName:1}); //asc
+> db.employees.find().sort({firstName:-1}); //desc

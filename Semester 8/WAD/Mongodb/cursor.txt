@@ -1,0 +1,12 @@
+> var employees= db.employees.find();
+	employees.forEach(function(u){
+		print(u.firstName);
+	});
+
+//max salary
+> db.employees.find().sort({salary:-1}).limit(1);
+//min salary
+> db.employees.find().sort({salary:1});
+
+//query execution plan
+> db.employees.find().explain();

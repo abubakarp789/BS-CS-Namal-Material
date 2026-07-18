@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>First Edition Auctions</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+
+  <style>
+    /* === PAGE BACKGROUND === */
+    #page {
+      background-color: #f5f3ef;
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 2rem;
+    }
+
+    /* === WHITE CARD CONTAINER === */
+    #auction-card {
+      background-color: #ffffff;
+      padding: 2.5rem 3rem;
+      max-width: 700px;
+      width: 100%;
+      box-shadow: 0 2px 24px rgba(0, 0, 0, 0.07);
+    }
+
+    /* === MAIN HEADING === */
+    #auction-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 2rem;
+      color: #1a1a1a;
+      margin-bottom: 1.5rem;
+    }
+
+    /* === TABLE === */
+    #auction-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-family: 'Source Sans 3', sans-serif;
+    }
+
+    /* === TABLE HEADER ROW === */
+    .table-header {
+      border-top: 2px solid #1a1a1a;
+      border-bottom: 2px solid #1a1a1a;
+    }
+
+    /* === HEADER CELLS (th) === */
+    .col-label {
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: #1a1a1a;
+      padding: 0.75rem 1rem;
+      text-align: left;
+    }
+
+    /* === ALL DATA CELLS (td) === */
+    .table-cell {
+      padding: 0.85rem 1rem;
+      font-size: 0.95rem;
+      color: #2c2c2c;
+    }
+
+    /* === RIGHT-ALIGN PRICE COLUMNS === */
+    .price-col {
+      text-align: right;
+    }
+
+    /* === CURRENT BID — BOLD === */
+    .current-bid {
+      font-weight: 600;
+      color: #1a1a1a;
+    }
+
+    /* === ODD ROWS (shaded) === */
+    .row-shaded {
+      background-color: #f7f6f3;
+    }
+
+    /* === EVEN ROWS (white) === */
+    .row-white {
+      background-color: #ffffff;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="page">
+    <div id="auction-card">
+
+      <h1 id="auction-title">First Edition Auctions</h1>
+
+      <table id="auction-table">
+        <thead>
+          <tr class="table-header">
+            <th class="col-label">Author</th>
+            <th class="col-label">Title</th>
+            <th class="col-label price-col">Reserve Price</th>
+            <th class="col-label price-col">Current Bid</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="row-shaded">
+            <td class="table-cell">E.E. Cummings</td>
+            <td class="table-cell">Tulips &amp; Chimneys</td>
+            <td class="table-cell price-col">$2,000.00</td>
+            <td class="table-cell price-col current-bid">$2,642.50</td>
+          </tr>
+          <tr class="row-white">
+            <td class="table-cell">Charles d'Orleans</td>
+            <td class="table-cell">Poemes</td>
+            <td class="table-cell price-col"></td>
+            <td class="table-cell price-col current-bid">$5,866.00</td>
+          </tr>
+          <tr class="row-shaded">
+            <td class="table-cell">T.S. Eliot</td>
+            <td class="table-cell">Poems 1909 – 1925</td>
+            <td class="table-cell price-col">$1,250.00</td>
+            <td class="table-cell price-col current-bid">$8,499.35</td>
+          </tr>
+          <tr class="row-white">
+            <td class="table-cell">Sylvia Plath</td>
+            <td class="table-cell">The Colossus</td>
+            <td class="table-cell price-col"></td>
+            <td class="table-cell price-col current-bid">$1,031.72</td>
+          </tr>
+        </tbody>
+      </table>
+
+    </div>
+  </div>
+
+</body>
+</html>

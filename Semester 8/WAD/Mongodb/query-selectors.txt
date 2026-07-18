@@ -1,0 +1,34 @@
+> db.employees.find();
+> db.employees.find({_id:{$gt:2}});
+> db.employees.find({_id:{$gte:2}});
+
+> db.employees.find({_id:{$gte:2, $lt:5}});
+> db.employees.find({_id:{$gte:2, $lte:5}});
+
+> db.employees.find({_id:{$in:[1,4,7]}});
+> db.employees.find({_id:{$nin:[1,4,7]}});
+
+> db.employees.find({$or:[{lastname:"kumar"},{lastname:"chauhan"}]});
+> db.employees.find({$and:[{lastname:"kumar"},{salary:{$gte:12000}}]});
+
+> db.employees.insert({_id:8,firstname:'sumit',lastname:'rawat'});
+> db.employees.find({salary:{$exists:true}});
+
+> db.employees.find({$where:function(){ return (salary==10000); }});
+
+
+> db.articles.insert(
+   [
+     { _id: 1, title: "coffee", author: "shailendra", views: 50 },
+     { _id: 2, title: "Coffee Shopping", author: "mohan", views: 5 },
+     { _id: 3, title: "Baking a cake", author: "rama", views: 90  },
+     { _id: 4, title: "baking", author: "shailendra", views: 100 },
+     { _id: 5, title: "Café Con Leche", author: "rama", views: 200 },
+     { _id: 6, title: "Сырники", author: "rohit", views: 80 },
+     { _id: 7, title: "coffee and cream", author: "mohan", views: 10 },
+     { _id: 8, title: "Cafe con Leche", author: "shailendra", views: 10 }
+   ]
+)
+
+> db.articles.createIndex( { title: "text" } )
+> db.articles.find({$text : {$search:"coffee"}});
